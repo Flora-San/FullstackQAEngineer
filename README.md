@@ -1,6 +1,6 @@
 ### Challenge Fullstack QA Engineer
 
-_each folder has a readme with instructions_
+_Each folder has a readme with instructions_
 
 Manual & Analysis Exercise
 

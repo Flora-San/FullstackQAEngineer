@@ -1,5 +1,7 @@
 ### Challenge Fullstack QA Engineer
 
+_each folder has a readme with instructions_
+
 Manual & Analysis Exercise
 
 1. Exercise login  [Features Folder]( https://github.com/Flora-San/FullstackQAEngineer/tree/main/features)

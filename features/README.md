@@ -11,7 +11,7 @@ As a user I want to create a new user’s account.
 
 The form to be filled in by the user to get successfully registered should contain the following mandatory fields:
 
-** Mandatory fields: **
+**Mandatory fields:**
 
 First Name: string between 4 and 150 characters
 
@@ -27,7 +27,7 @@ Password: string between 6 and 20 characters
 
 Terms and conditions: checkbox
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 
 If the user enters an email address already registered in the system, he should be redirected to the login page with a message saying: "There is an existing account associated with <<EMAIL_ADDRESS>>”.
 

@@ -1,3 +1,8 @@
+### Solution Approach
+for this solution the stack used is **Cucumber**. check in your local if you already have these configurations, otherwise you can install with the following configurations described below.
+
+[Cucumber Installation](https://cucumber.io/docs/installation/java/)
+
 ### Manual & Analysis Exercise
 
 Write the list of test cases for the given user story specifying per test case: description, steps and assertions. You can use any methodology you want (e.g. Gherkin).

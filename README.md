@@ -4,15 +4,15 @@ _Each folder has a readme with instructions_
 
 Manual & Analysis Exercise
 
-1. login Exercise [Features]( https://github.com/Flora-San/FullstackQAEngineer/tree/main/features)
+1. Login exercise [Features]( https://github.com/Flora-San/FullstackQAEngineer/tree/main/features)
    
-2. petStore Exercise [petStoreFeatures](https://github.com/Flora-San/FullstackQAEngineer/tree/main/CucumberApiTest/target/test-classes/features)
+2. petStore exercise [petStoreFeatures](https://github.com/Flora-San/FullstackQAEngineer/tree/main/CucumberApiTest/target/test-classes/features)
 
 Automation Exercise
 
-3. Fronted Automation Exercise [Amazon Test](https://github.com/Flora-San/FullstackQAEngineer/tree/main/amazonTest)
+3. Fronted Automation exercise [Amazon Test](https://github.com/Flora-San/FullstackQAEngineer/tree/main/amazonTest)
 
-4. API petStore Excercise [PetStoreAPI](https://github.com/Flora-San/FullstackQAEngineer/tree/main/CucumberApiTest/target/test-classes)
+4. API petStore excercise [PetStoreAPI](https://github.com/Flora-San/FullstackQAEngineer/tree/main/CucumberApiTest/target/test-classes)
 
 
 ***

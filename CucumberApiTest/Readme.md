@@ -20,12 +20,17 @@ Implement the following API automated checks over our DEMO PET STORE: https://pe
 
 At first, you need install the following things:
 
-[Intellij IDE](https://www.jetbrains.com/es-es/idea/download/#section=linux)
+check if you have already Java installed with the following command 
 
-[Selenium web driver](https://www.selenium.dev/downloads/)
-
-[chrome driver](https://chromedriver.chromium.org/)
-
+```
+java -version
+```
+Install Java
+```
+sudo apt install oracle-java#-installer
+```
 [Java](https://www.oracle.com/java/technologies/downloads/#java11)
 
-I'm using Maven dependencies & Cucumber for test cases as well
+Cucumber installation, Maven dependencies
+
+[Install Cucumber](https://cucumber.io/docs/installation/java/)

@@ -1,4 +1,4 @@
-***Challenge Fullstack QA Engineer***
+### Challenge Fullstack QA Engineer
 
 Manual & Analysis Exercise
 

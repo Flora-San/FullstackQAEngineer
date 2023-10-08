@@ -10,7 +10,7 @@ Manual & Analysis Exercise
 
 Automation Exercise
 
-3. Fronted Automation Exercise [AmazonAutomation](https://github.com/Flora-San/FullstackQAEngineer/tree/main/amazonTest)
+3. Fronted Automation Exercise [Amazon Test](https://github.com/Flora-San/FullstackQAEngineer/tree/main/amazonTest)
 
 4. API petStore Excercise [PetStoreAPI](https://github.com/Flora-San/FullstackQAEngineer/tree/main/CucumberApiTest/target/test-classes)
 

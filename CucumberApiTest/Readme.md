@@ -1,11 +1,11 @@
 ### Solution Approach
-for this solution the stack used is **Java** and **Cucumber**.
-check in your local if you already have these configurations, otherwise you can install
+For this solution the stack used is **Java** and **Cucumber**.
+Check in your local if you already have these configurations, otherwise you can install
 with the following configurations described below.
 
 **Simple configurations**
 
-check if you already have Java installed with the following command 
+Check if you already have Java installed with the following command 
 
 ```
 java -version
@@ -23,7 +23,7 @@ Cucumber installation, Maven dependencies
 
 ### REST API Automation
 
-tests for the “pet/findPetsByStatus" endpoint and a CRUD using the following API automated checks in DEMO PET STORE: https://petstore.swagger.io/
+Tests for the “pet/findPetsByStatus" endpoint and a CRUD using the following API automated checks in DEMO PET STORE: https://petstore.swagger.io/
 
 • Get "available" pets. Assert expected result
 

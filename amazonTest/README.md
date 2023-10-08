@@ -1,17 +1,17 @@
 ### Solution Approach
-for this solution the stack used is **Python**, **Pytest** and **Selenium Web driver**.
+For this solution the stack used is **Python**, **Pytest** and **Selenium Web driver**.
 
-check in your local if you already have these configurations, otherwise you can install
+Check in your local if you already have these configurations, otherwise you can install
 with the following configurations described below.
 
 **Check Python**
 
-first check if you already have Python installed in your system
+First check if you already have Python installed in your system
 ```
 # Check the Python 3 version
 $ python3 --version
 ```
-install python
+Install python
 
 ```
 $ sudo apt-get update
@@ -19,7 +19,7 @@ $ sudo apt-get install python3.8 python3-pip
 ```
 
 **Install Selenium**
-with the following command line :
+With the following command line :
 ```
 pip install selenium
 ```
@@ -32,7 +32,7 @@ pytest
 ```
 pip install pytest
 ```
-you can run testcases from terminal using pytest
+You can run testcases from terminal using pytest
 ```
 pytest TestHatsMen.py
 ```

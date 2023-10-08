@@ -5,6 +5,7 @@ check in your local if you already have these configurations, otherwise you can 
 with the following configurations described below.
 
 **Check Python**
+
 first check if you already have Python installed in your system
 ```
 # Check the Python 3 version
@@ -26,6 +27,7 @@ Install Chromedriver to handle the window browser, for this test we use Chrome B
 
 
 **Install pytest**
+
 pytest
 ```
 pip install pytest

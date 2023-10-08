@@ -5,12 +5,12 @@ with the following configurations described below.
 
 **Simple configurations**
 
-check if you have already Java installed with the following command 
+check if you already have Java installed with the following command 
 
 ```
 java -version
 ```
-Install Java
+Install Java 
 ```
 sudo apt install oracle-java#-installer
 ```
